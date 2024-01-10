@@ -1,0 +1,6 @@
+spx500 checked , time =   21:06:25
+nasdaq checked , time =   21:06:26
+gold checked , time =   21:06:27
+BAC checked , time =   21:06:28
+AAPL checked , time =   21:06:29
+Sleep for 86070 seconds

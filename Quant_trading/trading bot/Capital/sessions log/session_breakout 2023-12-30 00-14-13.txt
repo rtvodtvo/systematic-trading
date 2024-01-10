@@ -1,0 +1,7 @@
+spx500 checked , time =   00:14:22
+nasdaq checked , time =   00:14:23
+gold checked , time =   00:14:24
+BAC checked , time =   00:14:25
+AAPL checked , time =   00:14:26
+Sleep for 994 seconds
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
